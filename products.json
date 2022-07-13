@@ -1,0 +1,82 @@
+[
+    {
+      "id": "62cec6d5fc9bd58eaea16bf6",
+      "name": "Alfreda",
+      "size": [
+        "M",
+        "L"
+      ],
+      "image": "assets/images/default_product.png",
+      "description": "Velit culpa id mollit voluptate laboris. In do esse sit ipsum anim dolor ipsum magna quis."
+    },
+    {
+      "id": "62cec6d5c55b29c4312f8e6c",
+      "name": "Tara",
+      "size": [
+        "S",
+        "XL"
+      ],
+      "image": "assets/images/default_product.png",
+      "description": "Sit id laborum consequat aute proident mollit aliqua et mollit est excepteur occaecat sit incididunt. Incididunt voluptate laborum veniam culpa esse quis tempor fugiat tempor magna laborum est cupidatat."
+    },
+    {
+      "id": "62cec6d5e50e0c58f973ac4c",
+      "name": "Evangeline",
+      "size": [
+        "L",
+        "S"
+      ],
+      "image": "assets/images/default_product.png",
+      "description": "Non consequat esse do magna ad exercitation amet nisi nulla dolore. Sint do voluptate consequat magna dolore mollit ullamco quis anim."
+    },
+    {
+      "id": "62cec6d5d13e4b44a0021978",
+      "name": "Ferguson",
+      "size": [
+        "M",
+        "L"
+      ],
+      "image": "assets/images/default_product.png",
+      "description": "Laborum pariatur consequat in dolor sint nulla deserunt et reprehenderit ad. Minim reprehenderit cupidatat dolor amet."
+    },
+    {
+      "id": "62cec6d53e2dfab6ded4ebc7",
+      "name": "Mcgowan",
+      "size": [
+        "XL",
+        "XS"
+      ],
+      "image": "assets/images/default_product.png",
+      "description": "Minim ullamco irure deserunt nostrud pariatur quis. Ut amet ea culpa aliquip sint ullamco elit quis sunt amet."
+    },
+    {
+      "id": "62cec6d5294cdad1cca7c1a4",
+      "name": "Cooper",
+      "size": [
+        "M",
+        "S"
+      ],
+      "image": "assets/images/default_product.png",
+      "description": "Dolore occaecat proident duis do duis voluptate. Consequat et aliquip nulla qui nostrud sunt nisi."
+    },
+    {
+      "id": "62cec6d58b0556e28b738d08",
+      "name": "Whitfield",
+      "size": [
+        "XL",
+        "L"
+      ],
+      "image": "assets/images/default_product.png",
+      "description": "Id et ea ea sit cupidatat sit pariatur tempor. Et nulla ad cillum quis tempor cupidatat minim ea tempor qui dolor voluptate ea elit."
+    },
+    {
+      "id": "62cec6d534b1214267e29f01",
+      "name": "Tasha",
+      "size": [
+        "XS",
+        "L"
+      ],
+      "image": "assets/images/default_product.png",
+      "description": "Lorem incididunt ad nulla occaecat aute fugiat labore consequat pariatur sit reprehenderit enim sint. Ea culpa duis labore dolore minim sint deserunt commodo."
+    }
+  ]
